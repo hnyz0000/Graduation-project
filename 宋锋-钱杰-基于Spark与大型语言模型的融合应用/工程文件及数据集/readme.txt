@@ -1,0 +1,8 @@
+作者：黄峻杰 31520231154289
+
+dataset为数据集
+result为数据处理的结果和可视化的结果
+get_and_preprocessing_dataset.py为下载数据集和预处理的程序
+analysis.py为数据分析程序
+LLM_in_database.py为大语言模型与数据库相结合的实现程序
+visualization.py为可视化的代码
